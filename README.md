@@ -116,7 +116,7 @@
 
 ### 🧩 Coding Profiles  
 
-#### 📊 LeetCode Stats  
+#### 📊 [LeetCode Stats](https://leetcode.com/u/vivekxsh/)  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vivekxsh?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </p>
