@@ -11,9 +11,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&center=true&vCenter=true&width=535&height=70&lines=Hi!+I'm+Vivek+Kumar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=87CEEB&center=true&vCenter=true&width=535&height=70&lines=Hi!+I'm+Vivek+Kumar" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
@@ -113,30 +114,45 @@
 
 ---
 
-### 🧩 Coding Profiles
+### 🧩 Coding Profiles  
 
-<table style="width: 100%; table-layout: fixed;">
-  <thead>
-    <tr>
-      <th style="width: 30%; text-align: left;">Platform</th>
-      <th style="width: 70%; text-align: left;">Stats</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://leetcode.com/vivekxsh" target="_blank">LeetCode</a></td>
-      <td><img src="https://leetcode-stats.vercel.app/api?username=vivekxsh&theme=dark" alt="LeetCode Stats" style="width: 100%; max-width: 600px;" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://auth.geeksforgeeks.org/user/vivekxsh" target="_blank">GeeksforGeeks</a></td>
-      <td><img src="https://img.shields.io/badge/GeeksforGeeks-vivekxsh-FF7F00?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" style="width: 150px;" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://codeforces.com/profile/vivekxsh" target="_blank">Codeforces</a></td>
-      <td><img src="https://img.shields.io/badge/Codeforces-vivekxsh-1f8acb?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Badge" style="width: 150px;" /></td>
-    </tr>
-  </tbody>
-</table>
+#### 📊 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vivekxsh?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</p>
+
+#### 🐙 GitHub Contributions  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekxsh&theme=react-dark&hide_border=true" width="97%"/>
+</p>
+
+---
+
+#### 🌐 Competitive Programming Profiles  
+<p align="center">
+  <table style="width: 90%; table-layout: fixed; border: none;">
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://leetcode.com/vivekxsh" target="_blank">
+            <img src="https://leetcode-stats.vercel.app/api?username=vivekxsh&theme=dark" alt="LeetCode Profile" width="300" />
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://auth.geeksforgeeks.org/user/vivekxsh" target="_blank">
+            <img src="https://img.shields.io/badge/GeeksforGeeks-vivekxsh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://codeforces.com/profile/vivekxsh" target="_blank">
+            <img src="https://img.shields.io/badge/Codeforces-vivekxsh-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+
 
 
 
@@ -159,6 +175,5 @@
 </div>
 
 ---
-
 
 
