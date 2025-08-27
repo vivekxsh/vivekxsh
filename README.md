@@ -128,14 +128,19 @@
 
 ---
 
-#### 🌐 Competitive Programming Profiles  
+#### 🌐 Competitive Programming Profiles
+
 <p align="center">
   <table style="width: 90%; table-layout: fixed; border: none;">
     <tbody>
       <tr>
         <td align="center">
           <a href="https://leetcode.com/vivekxsh" target="_blank">
-            <img src="https://leetcode-stats.vercel.app/api?username=vivekxsh&theme=dark" alt="LeetCode Profile" width="300" />
+            <img src="https://leetcode-stats.vercel.app/api?username=vivekxsh&theme=dark" alt="LeetCode Stats" width="300"/>
+          </a>
+          <br/>
+          <a href="https://leetcode.com/vivekxsh" target="_blank">
+            <img src="https://img.shields.io/badge/LeetCode-vivekxsh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
           </a>
         </td>
         <td align="center">
@@ -152,6 +157,7 @@
     </tbody>
   </table>
 </p>
+
 
 
 
