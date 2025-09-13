@@ -128,6 +128,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vivekxsh&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 #### 🌐 Competitive Programming Profiles
 
 <p align="center">
@@ -175,11 +180,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekxsh&layout=compact&show_icons=true&locale=en&theme=dark" width="48%" alt="Top Languages" />
 </div>
 
+
+
 <div align="left" style="margin-top: 10px;">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekxsh&theme=dark" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
-
 
