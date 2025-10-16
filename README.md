@@ -22,7 +22,7 @@
 
 - 🔭 I’m a Final Year Student at Kalasalingam Academy of Research and Education.  
 - 💬 I love talking about Language Technologies, solving problems, and new tech experiences.  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-kumar-576a50238/) • [Email](mailto:vivekkumar07sharma@gmail.com) • [LeetCode](https://leetcode.com/vivekxsh/) • [GeeksForGeeks](https://www.geeksforgeeks.org/user/vivekxsh/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-kumar-576a50238/) • [Email](mailto:vivekkumar07sharma@gmail.com)
 
 
 ---
