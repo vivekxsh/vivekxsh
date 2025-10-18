@@ -24,6 +24,10 @@
 - 💬 I love talking about Language Technologies, solving problems, and new tech experiences.  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-kumar-576a50238/) • [Email](mailto:vivekkumar07sharma@gmail.com)
 
+## 🚀 Total Pull Requests
+[![Pull Requests](https://img.shields.io/badge/PRs-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Avivekxsh)
+
+
 
 ---
 
